@@ -1,7 +1,7 @@
 # Mini Blog
 
 ### 📝 Descrição
-Site responsivo de um blog.
+Site de um blog utilizando React no front-end e Firebase no back-end.
 
 </br>
 
