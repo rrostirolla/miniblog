@@ -1,3 +1,33 @@
+# Mini Blog
+
+### 📝 Descrição
+Site responsivo de um blog.
+
+</br>
+
+### 👨🏻‍💻 Tecnologias utilizadas 
+React </br>
+JavaScript </br>
+CSS </br>
+Firebase </br>
+
+</br>
+
+### 🎴 Imagem do projeto
+
+![miniblog](https://user-images.githubusercontent.com/114628700/226450565-618a6b47-3c4d-407c-a00e-40d15eba9c0e.jpg)
+
+
+
+
+</br>
+
+### 💻 Acesse o projeto
+https://miniblog-rr.vercel.app/
+
+</br>
+</br>
+</br>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
